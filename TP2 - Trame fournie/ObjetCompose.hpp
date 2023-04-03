@@ -1,0 +1,5 @@
+#ifndef OBJETCOMPOSE_HPP
+#define OBJETCOMPOSE_HPP
+
+#endif /* OBJETCOMPOSÉ_HPP */
+

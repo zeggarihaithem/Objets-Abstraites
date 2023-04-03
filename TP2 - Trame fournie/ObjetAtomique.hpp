@@ -1,0 +1,4 @@
+#ifndef OBJETATOMIQUE_HPP
+#define OBJETATOMIQUE_HPP
+
+#endif
